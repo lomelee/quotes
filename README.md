@@ -14,9 +14,9 @@ To add to the list of quotes:
 
 ##The Quotes
 
-> Love has a tide! 
+> Love has a tide!
 
-Helen Hunt Jackson 
+Helen Hunt Jackson
 
 ---
 > Fine. Sell out. Get a job. A nice nine to five one. Sit in front of the idiot box all night and watch some stupid sitcom...all the while wondering what it might have been like if you'd hung in there for just one...more...day.
@@ -187,7 +187,7 @@ Albert Einstein
 
 ---
 
-> It has been said that man is a rational animal. All my life I have been searching for evidence which could support this. 
+> It has been said that man is a rational animal. All my life I have been searching for evidence which could support this.
 
 Bertrand Russell
 
@@ -242,3 +242,8 @@ Orr (Catch-22)
 > Be less curious about people and more curious about ideas.
 
 Marie Curie
+
+ROMIHO
+
+---
+> let's get lost together yeah 
